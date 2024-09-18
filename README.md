@@ -1,2 +1,2 @@
 # Brutforce
-Try successive password
+Website handling automation using playwright library to try successive password "brutforce like"
